@@ -1,0 +1,30 @@
+body {
+    background-image: url("../Images/wp4047742.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+h1, p, pre, a, address, table, nav, header, section, aside {
+    color: black;
+    background-color: beige;
+}
+
+header {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+}
+
+nav {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

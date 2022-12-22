@@ -1,0 +1,12 @@
+#authorImage {
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+}
+
+#shortcuts {
+    width: 15%;
+    padding-right: 15px;
+    margin-right: 15px;
+    float: left;
+}
